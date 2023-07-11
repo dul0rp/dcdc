@@ -5,7 +5,7 @@
     {
       "name": "DCDC",
       "format": "LINKED_PLACES",
-      "src": "./data/peripleo.config.json",
+      "src": "./data/Peripleo_Data_1689088042.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
